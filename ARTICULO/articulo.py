@@ -148,6 +148,7 @@ def eliminar_dep():
     print("[m] Volver al MENU.")
     print("[s] Salir.")
     print(" ")
+    print("prueba guit")
 
     opcion = input("Digite una opcion: ")
 
